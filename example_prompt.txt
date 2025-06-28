@@ -1,0 +1,12 @@
+🎨 1.Realisian (digiplay/Realisian_v5)
+a hyper-realistic portrait of a warrior woman in tactical armor, dramatic lighting, 4k, cinematic shot, detailed skin textures
+
+---
+
+🎨 2.Anime (hakurei/waifu-diffusion)
+an anime-style girl with blue hair standing in a cherry blossom field, soft lighting, large eyes, expressive face, sunset background
+
+---
+
+🎨 3.Cyberpunk (CompVis/stable-diffusion-v1-4)
+a cyberpunk samurai standing under neon-lit billboards in Tokyo, wearing futuristic armor, glowing katana, rainy night, cinematic lighting
